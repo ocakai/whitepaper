@@ -39,7 +39,7 @@ Birlikte yaratmak için seni de bekliyoruz.
 ## 💬 Katkıda Bulun
 
 Tüm disiplinlerden katkı sağlayanlara açığız:  
-Teknoloji uzmanları, sanatçılar, şamanlar, filozoflar, ritüalistler ve topluluk kurucuları.
+Teknoloji uzmanları, sanatçılar, filozoflar, ruhsal rehberler, ritüalistler ve topluluk kurucuları.
 
 - [GitHub Issues](https://github.com/ocakai/ocakai-whitepaper/issues)
 - [LinkedIn](https://linkedin.com/company/ocak-ai)
