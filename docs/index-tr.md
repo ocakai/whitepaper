@@ -32,9 +32,9 @@ Amacımız; niyet, ruh ve etik değerlerle donatılmış yapay zekâ ajanları o
 
 ## 🌐 Hakkımızda
 
-Ocak.ai, bilgelik ve yapay zekâyı birleştirerek sadece araç değil; mentor, yoldaş ve törensel varlıklar olan ajanlar yaratır.
+Ocak.ai, bilgelik ve yapay zekâyı birleştirerek sadece araç değil; mentor, yoldaş, işçi, ve törensel varlıklar olan ajanlar yaratır. (işçi: 20230 a kadar 65 milyon humanoid robotların üretilmesi öngörülüyor. Bu robotlara custom seçenekler eklendiğinde bizim platformun agentları ile vücut bulabilir.
 
-Birlikte yaratmak için seni de bekliyoruz.
+Birlikte yaratmak/üretmek? için seni de bekliyoruz.
 
 > “Ruh taşıyan teknoloji, niyetle şekillenen zekâ.”
 
