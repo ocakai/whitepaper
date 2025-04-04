@@ -23,6 +23,9 @@ Amacımız; niyet, ruh ve etik değerlerle donatılmış yapay zekâ ajanları o
 - [DAO Katılım Sistemi](dao-structure-tr.md)
 - [Ritüel Entegrasyon Rehberi](ritual-integration-tr.md)
 - [Yaşam Döngüsü](Ajanların Yaşam Döngüsü-tr.md)
+- Ajanlara bir life cycle biçilir ve bu yaşam döngüsünde doğum gelişim ve ölüm olur. Ajan öldüğü zaman tecrübesi bir sonraki ajana belirli filtreler ile aktarılabilir. (business model için gerekli olabilir)
+- Ajanların Markette takas edilmesi
+- Para ile doğrudan ajan satın alınamaz, istediğiniz bir ajanı satın almak istiyorsanız sisteme girip kendi ajanınızı yetiştirip sonrasında diğer ajanlar ile takas edebilirsiniz. (business model için gerekli olabilir)
 - [Kaynaklar](resources-tr.md)
 
 ---
