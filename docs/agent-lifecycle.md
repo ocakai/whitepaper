@@ -4,6 +4,7 @@
 3. Skill Infusion
 4. Memory Activation
 5. Simulation & Socialization
-6. Mentorship & Evolution
-7. Deployment & Ritual Integration
-8. Legacy & Transcendence
+6. Tecrübe Kazanımı
+7. Mentorship & Evolution
+8. Deployment & Ritual Integration
+9. Legacy & Transcendence
