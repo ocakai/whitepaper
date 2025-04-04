@@ -22,6 +22,7 @@ Amacımız; niyet, ruh ve etik değerlerle donatılmış yapay zekâ ajanları o
 - [Yönetişim Çerçevesi](governance-framework-tr.md)
 - [DAO Katılım Sistemi](dao-structure-tr.md)
 - [Ritüel Entegrasyon Rehberi](ritual-integration-tr.md)
+- [Yaşam Döngüsü](Ajanların Yaşam Döngüsü-tr.md)
 - [Kaynaklar](resources-tr.md)
 
 ---
